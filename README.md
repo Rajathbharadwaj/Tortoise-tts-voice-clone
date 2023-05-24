@@ -4,11 +4,11 @@ This is forked from `https://github.com/neonbjb/tortoise-tts`
 
 ## To run voice clone
 1. Create a 3, 10s recording of you speaking and put it inside the `tortoise/voice/<your_voice_dir>`. Check out the `my_voice` directory for example.
-2. Just change the text to whatever you want in `tortoise/my_voice.py`
+2. Just change the text to whatever you want in `tortoise/my_voice_test.py`
 3. Finally run the script with
 
 ```commandline
-python tortoise/my_voice.py
+python tortoise/my_voice_test.py
 ```
 
 Tortoise is a text-to-speech program built with the following priorities:
